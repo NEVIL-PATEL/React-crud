@@ -1,1 +1,9 @@
 "# crud" 
+![Screenshot (1191)](https://user-images.githubusercontent.com/93375041/235584408-6fbd4c62-f477-41c6-b406-b83407b9114c.png)
+![Screenshot (1192)](https://user-images.githubusercontent.com/93375041/235584409-ab83def7-fb42-4cdd-98d3-f2eca0b1176f.png)
+![Screenshot (1193)](https://user-images.githubusercontent.com/93375041/235584410-c5de6b33-e245-4d31-ab19-b04636e8f67b.png)
+![Screenshot (1194)](https://user-images.githubusercontent.com/93375041/235584412-c7dffe9c-d683-4ea2-a7b0-182ec5c62220.png)
+![Screenshot (1195)](https://user-images.githubusercontent.com/93375041/235584414-f1500c59-5d84-4c53-9fac-8c604d33df78.png)
+![Screenshot (1196)](https://user-images.githubusercontent.com/93375041/235584415-afd8bbac-f935-470e-ae7e-8b12d8dc66e7.png)
+![Screenshot (1197)](https://user-images.githubusercontent.com/93375041/235584418-ceb7df90-2955-4bff-81d3-f0e59c8b4d81.png)
+![Screenshot (1198)](https://user-images.githubusercontent.com/93375041/235584419-7b59fca8-180a-43d5-9428-e4c94483b755.png)
